@@ -1,0 +1,28 @@
+{
+  "intents": [
+    {
+      "intent": "SkillInfoIntent"
+    },
+    {
+      "intent": "SkillMainIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "awsservice",
+          "type": "LIST_OF_AWS_SERVICES"
+        }
+      ],
+      "intent": "SkillSlotIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    }
+  ]
+}
