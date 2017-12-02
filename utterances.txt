@@ -1,0 +1,9 @@
+SkillInfoIntent what is service map
+SkillInfoIntent tell me about service map
+SkillMainIntent list types of AWS services
+SkillMainIntent list categories of AWS services
+SkillMainIntent list AWS services
+SkillMainIntent list services
+SkillSlotIntent list services under {awsservice}
+SkillSlotIntent list services under {awsservice} category
+SkillSlotIntent list AWS services under {awsservice} category
