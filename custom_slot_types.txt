@@ -1,0 +1,8 @@
+LIST_OF_AWS_SERVICES
+
+Security
+Compute
+Storage
+Database
+Migration
+Network
