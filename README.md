@@ -9,7 +9,7 @@ Amazon Echo -> Alexa Skill -> AWS Lambda Function -> Alexa Skill -> Amazon Echo
 ### Pre-Requisites:
 
 1) Amazon Developer account.
-   *Tip: Create with your amazon.com account to directly test with your personal Amazon echo device.
+   *Tip: Create with your amazon.com account to directly test with your personal Amazon echo device.*
 2) AWS Account:
    Free tier account would be sufficient.
 
