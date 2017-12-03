@@ -2,15 +2,18 @@
 Starter tutorial for Alexa Skill that invokes a lambda function to list aws services
 
 How it works:
+
 Amazon Echo -> Alexa Skill -> AWS Lambda Function -> Alexa Skill -> Amazon Echo
 
 Pre-Requisites:
+
 1) Amazon Developer account.
    Tip: Create with your amazon.com account to directly test with your personal Amazon echo device.
 2) AWS Account:
    Free tier account would be sufficient.
 
 Implemetation:
+
 Phase 1 (Amazon Developer Account) - Create Alexa Skill and Configure Intent, Slot types and Utterances
 1) Login to Developer Console https://developer.amazon.com/home.html
 2) Click on Alexa -> Alexa Skills Kit (Get Started) -> Add a New Skill
